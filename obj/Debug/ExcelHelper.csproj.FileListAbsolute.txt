@@ -1,0 +1,17 @@
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\ExcelHelper.pdb
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\BouncyCastle.Crypto.dll
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\NPOI.dll
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\NPOI.OOXML.dll
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\NPOI.OpenXml4Net.dll
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\BouncyCastle.Crypto.xml
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\obj\Debug\ExcelHelper.csprojAssemblyReference.cache
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\obj\Debug\ExcelHelper.csproj.CoreCompileInputs.cache
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\obj\Debug\ExcelHelper.csproj.CopyComplete
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\obj\Debug\ExcelHelper.pdb
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\ExcelHelper.exe.config
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\bin\Debug\ExcelHelper.exe
+D:\WorkPlace\VS2017\_Packing\Helpers\ExcelHelper\obj\Debug\ExcelHelper.exe
